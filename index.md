@@ -13,4 +13,13 @@
 
 ### Algorithms and Data Structures
 
+<p>I selected this artifact to improve because I thought it would best demonstrate algorithm design and data structure choice. The major improvement from the original artifact to know is pagination. Instead of returning each row of data, it returns a limited selection instead. This reduces the load for the user by loading smaller amounts of data instead.
+In improving this portion of the artifact, I showed that I can design a computing solution to solve a given problem using algorithmic principles while managing trade-offs in design choices.</p>
+<p>While implementing the pagination, I learned that there were multiple different ways to paginate from a database, like Keyset or Seek (Gilling, 2019). Because I haven’t implemented the database yet, I faced a few challenges while implementing it with my example development data. An example of this includes have limits or offsets that were to large. This would cause errors as I was trying to get data outside of the bounds of the array. This was worth learning, as I know how to handle it now if MySQL has similar limitations.</p>
+
+<p>
+Reference<br />
+Gilling, D. (2019, April 23). Rest api design: Filtering, sorting, and pagination. Retrieved from https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/
+</p>
+
 ### Database
