@@ -1,3 +1,3 @@
-# naburnham.github.io
+# CS-499 Computer Science Capstone
 
-This was my SNHU capstone project
+My capstone project at Southern New Hampshire University. It is a Java Spring application utilizing a MySQL database.
